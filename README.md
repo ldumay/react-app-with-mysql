@@ -10,12 +10,13 @@ Source du projet :
 ## Structure du projet
 
 ```
-- client
-- server
+- client - port : 3000
+- server - port : 4000
 ```
 
 ## Création de l'app Client
 
 ```
 npx create-react-app client
+npm start
 ```
